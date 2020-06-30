@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+.todo-app {
+  
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.banner {
+  font-family: Roboto, sans-serif;
+  text-align: left;
+  align-content: center;
+  margin: auto;
+}
+
+.inputnewtodo {
+  margin-top: 8px;
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  width: 64%;
+  height: 37px;
+  background: #FBF1E7;
+  border: none;
+  outline: none;
+}
+
+.flex-container {
+  display: flex;
+  align-items: stretch;
+  
+}
+
+.completed {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+}
